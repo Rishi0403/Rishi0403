@@ -11,3 +11,4 @@ TDM Tools- CA and Cross Data Mover(XDM),
 API Tools: Soup UI and Postman,
 Project Management Tools: Jira,Confluence,Sharepoint,
 IBM DB2 Mainframe
+ETL Testing
